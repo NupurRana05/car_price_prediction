@@ -19,7 +19,7 @@ An interactive web interface is built using **Streamlit**, allowing users to inp
 ---
 
 ##  Tech Stack
-- Python 🐍
+- Python 
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
@@ -47,7 +47,7 @@ An interactive web interface is built using **Streamlit**, allowing users to inp
 
 ---
 
-## 🤖 Model Building
+##  Model Building
 - Used **Linear Regression**
 - Applied **OneHotEncoder** for categorical features
 - Created pipeline using `ColumnTransformer`
